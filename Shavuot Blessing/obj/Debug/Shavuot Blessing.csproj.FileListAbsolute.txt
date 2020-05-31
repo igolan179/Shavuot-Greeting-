@@ -1,0 +1,10 @@
+C:\Dev\Shavuot Blessing\Shavuot Blessing\bin\Debug\Shavuot Blessing.exe.config
+C:\Dev\Shavuot Blessing\Shavuot Blessing\bin\Debug\Shavuot Blessing.exe
+C:\Dev\Shavuot Blessing\Shavuot Blessing\bin\Debug\Shavuot Blessing.pdb
+C:\Dev\Shavuot Blessing\Shavuot Blessing\obj\Debug\Shavuot Blessing.csprojAssemblyReference.cache
+C:\Dev\Shavuot Blessing\Shavuot Blessing\obj\Debug\Shavuot_Blessing.Properties.Resources.resources
+C:\Dev\Shavuot Blessing\Shavuot Blessing\obj\Debug\Shavuot Blessing.csproj.GenerateResource.cache
+C:\Dev\Shavuot Blessing\Shavuot Blessing\obj\Debug\Shavuot Blessing.csproj.CoreCompileInputs.cache
+C:\Dev\Shavuot Blessing\Shavuot Blessing\obj\Debug\Shavuot Blessing.exe
+C:\Dev\Shavuot Blessing\Shavuot Blessing\obj\Debug\Shavuot Blessing.pdb
+C:\Dev\Shavuot Blessing\Shavuot Blessing\obj\Debug\Shavuot_Blessing.ShavuotForm.resources
